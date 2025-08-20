@@ -2,12 +2,13 @@ Materials for UBDS^3 Machine learning track in 2025
 
 <b>Slides:</b>
 <ul>
-  <li> Day 1: </li>
-  <li> Day 2: </li>
-  <li> Day 3: </li>
-  <li> Day 4: </li>
-  <li> Day 5:</li>
-  <li> Day 6: </li>
+  <li> Day 0: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/00_course_info.pdf"> Course Overview </a></li>
+  <li> Day 1: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/01_introduction_to_ML.pdf"> Intro to Machine Learning </a></li>
+  <li> Day 2: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/02_dimensional_reduction.pdf"> Dimensionality Reduction </a></li>
+  <li> Day 3: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/03_regressions.pdf"> Linear and Logistic Regression </a></li>
+  <li> Day 4: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/04_neural_networks.pdf"> Neural Networks </a></li>
+  <li> Day 5: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/05_convolutional_neural_networks.pdf"> Convolutionsl Neural Networks </a></li>
+  <li> Day 6: <a href="https://github.com/UBDS-3/ML_projects/blob/main/2025/slides/06_transformers.pdf"> Transformers </a></li>
 </ul>
   
 <b>Labs:</b>
