@@ -1,4 +1,5 @@
-Materials for UBDS^3 Machine learning track in 2025
+<h1> Machine learning track </h1>
+This repository contains the UBDS^3 2025 Machine Learning Track materials. This lecture series gives a theoretical and practical overview of common machine learning and computational algorithms used in different fields of biology. Techniques range from dimensionality reduction to advanced neural networks. Each day consists of a plenary lecture and a practical session. 
 
 <b>Slides:</b>
 <ul>
